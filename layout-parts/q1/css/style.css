@@ -2,4 +2,25 @@
 
 /* 回答はここに書いてね */
 
+.wrapper{
+  width: 900px;
+  margin: 0auto;
+}
+
+.under-box{
+  position: relative;
+  width: 900px;
+  height: 500px;
+  background-color: #eff3f4
+}
+
+.white-box{
+  top: 20px;
+  right:20px;
+  position: absolute;
+  ba
+  
+
+
+
 /* 回答はここに書いてね */
