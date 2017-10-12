@@ -2,4 +2,35 @@
 
 /* 回答はここに書いてね */
 
+.list {
+	width: 900px;
+	margin:  0px;
+	padding: 20px;
+	background-color: #eff3f4;
+}
+
+.box-left-img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	text-align:justify;
+}
+
+.box{
+    font-size: 18px;
+    line-height: 22px;
+    text-align:justify;
+}
+
+.box-right-img{
+	float: right;
+	margin-left: 20px ;
+	margin-bottom: 10px;
+}
+
+.underbox{
+	font-size: 18px;
+    line-height: 22px;
+    text-align:justify;
+}
 /* 回答はここに書いてね */

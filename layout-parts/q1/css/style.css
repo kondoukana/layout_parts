@@ -1,5 +1,29 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.list {
+	width: 900px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #eff3f4;
+}
+
+.list > li {
+	width: 270px;
+	padding: 20px;
+	background-color: #3274ae;
+	box-sizing: border-box;
+	float: left;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.text {
+	border: 10px solid #022336;
+	padding: 20px;
+	background-color: #eaf4ff;
+}
+
+
 
 /* 回答はここに書いてね */
